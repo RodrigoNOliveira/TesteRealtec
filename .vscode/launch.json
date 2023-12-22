@@ -1,0 +1,38 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "type": "java",
+        //     "name": "App",
+        //     "request": "launch",
+        //     "mainClass": "classes.App",
+        //     "projectName": "Teste_21d496e1",
+        //     "vmArgs": "--module-path \"C:/Users/rodri/Downloads/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        // },
+        // {
+        //     "type": "java",
+        //     "name": "Current File",
+        //     "request": "launch",
+        //     "mainClass": "${file}",
+        //     "vmArgs": "--module-path \"C:/Users/rodri/Downloads/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        // },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Teste_21d496e1",
+            "vmArgs": "--module-path \"C:/Users/rodri/Downloads/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "Teste_21d496e1"
+        }
+    ]
+}
